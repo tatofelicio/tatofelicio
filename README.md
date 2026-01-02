@@ -35,7 +35,7 @@ Aqui estão as tecnologias que uso e estudo atualmente:
 
 ### 📫 Contato
 
-* [![LinkedIn](https://www.linkedin.com/in/ot%C3%A1vio-fel%C3%ADcio-76b35b310/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otávio-felício-76b35b310/)
 * ✉️ **Email:** tatofelicio2006@gmail.com
 
 ---
