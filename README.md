@@ -6,13 +6,13 @@
 
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_DO_GITHUB&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" width="800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tatofelicio&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" width="800" />
 
   <br/><br/>
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&langs_count=6&theme=radical&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatofelicio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatofelicio&layout=compact&langs_count=6&theme=radical&hide_border=true" />
   </div>
 
   <br/>
